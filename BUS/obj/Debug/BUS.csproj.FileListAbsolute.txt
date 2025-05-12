@@ -1,0 +1,28 @@
+D:\LTCSDL - Copy\bin\Debug\BUS.dll
+D:\LTCSDL - Copy\bin\Debug\BUS.pdb
+D:\LTCSDL - Copy\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\LTCSDL - Copy\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\LTCSDL - Copy\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\LTCSDL - Copy\BUS\obj\Debug\BUS.dll
+D:\LTCSDL - Copy\BUS\obj\Debug\BUS.pdb
+D:\LTCSDL\bin\Debug\BUS.dll
+D:\LTCSDL\bin\Debug\BUS.pdb
+D:\LTCSDL\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\LTCSDL\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\LTCSDL\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\LTCSDL\BUS\obj\Debug\BUS.dll
+D:\LTCSDL\BUS\obj\Debug\BUS.pdb
+D:\LTCSDL_CHINH\bin\Debug\BUS.dll
+D:\LTCSDL_CHINH\bin\Debug\BUS.pdb
+D:\LTCSDL_CHINH\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\LTCSDL_CHINH\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\LTCSDL_CHINH\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\LTCSDL_CHINH\BUS\obj\Debug\BUS.dll
+D:\LTCSDL_CHINH\BUS\obj\Debug\BUS.pdb
+D:\LTCSDL_CHINH - Copy\bin\Debug\BUS.dll
+D:\LTCSDL_CHINH - Copy\bin\Debug\BUS.pdb
+D:\LTCSDL_CHINH - Copy\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\LTCSDL_CHINH - Copy\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\LTCSDL_CHINH - Copy\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\LTCSDL_CHINH - Copy\BUS\obj\Debug\BUS.dll
+D:\LTCSDL_CHINH - Copy\BUS\obj\Debug\BUS.pdb
